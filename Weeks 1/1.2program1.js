@@ -8,5 +8,5 @@ for(let i = 0; i<ages.length; i++)
         console.log(ages[i]);
     }
 }
-//23 / 2 = 1(remainder) --> For all the even numbers.
+//23 / 2 = 1(remainder) --> For all the odd numbers.
 //24 / 2 = 0(remainder) --> For all the even numbers.
